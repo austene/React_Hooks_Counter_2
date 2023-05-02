@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React_Hooks_Counter_2/static/css/main.073c9b0a.css",
-    "main.js": "/React_Hooks_Counter_2/static/js/main.062a21bf.js",
-    "static/js/787.647163d1.chunk.js": "/React_Hooks_Counter_2/static/js/787.647163d1.chunk.js",
-    "index.html": "/React_Hooks_Counter_2/index.html",
-    "main.073c9b0a.css.map": "/React_Hooks_Counter_2/static/css/main.073c9b0a.css.map",
-    "main.062a21bf.js.map": "/React_Hooks_Counter_2/static/js/main.062a21bf.js.map",
-    "787.647163d1.chunk.js.map": "/React_Hooks_Counter_2/static/js/787.647163d1.chunk.js.map"
+    "main.css": "/react_hooks_counter_2/static/css/main.073c9b0a.css",
+    "main.js": "/react_hooks_counter_2/static/js/main.91ec3734.js",
+    "static/js/787.647163d1.chunk.js": "/react_hooks_counter_2/static/js/787.647163d1.chunk.js",
+    "index.html": "/react_hooks_counter_2/index.html",
+    "main.073c9b0a.css.map": "/react_hooks_counter_2/static/css/main.073c9b0a.css.map",
+    "main.91ec3734.js.map": "/react_hooks_counter_2/static/js/main.91ec3734.js.map",
+    "787.647163d1.chunk.js.map": "/react_hooks_counter_2/static/js/787.647163d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.062a21bf.js"
+    "static/js/main.91ec3734.js"
   ]
 }
